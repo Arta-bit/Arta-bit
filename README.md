@@ -1,3 +1,4 @@
+![logo](3530f240-69fe-4bf5-bdbb-8fe77a9c2716.png)
 <h1 align="center">Hi 👋, I'm Arta</h1>
 <h3 align="center">🚀 A passionate Frontend Developer</h3>
 
