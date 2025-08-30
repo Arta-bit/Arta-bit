@@ -1,6 +1,6 @@
 ![logo](3530f240-69fe-4bf5-bdbb-8fe77a9c2716.png)
 <h1 align="center">Hi 👋, I'm Arta</h1>
-<h3 align="center">🚀 A passionate Frontend Developer</h3>
+<h3 align="center">🚀 I am a passionate Backend Developer </h3>
 
 <img align="right" alt="Arta" width="450" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
